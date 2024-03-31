@@ -35,6 +35,6 @@ class Solution:
 
     
 solution = Solution()
-print(solution.checkInclusion("abc", "bbbca"))
+print(solution.checkInclusion("ab", "eidbaooo"))
 
 
